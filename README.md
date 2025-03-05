@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JPoyTheZone
+- 👋 Hi, I’m @Nemo Anecrab
 - 👀 I’m currently working on a personal project: The Right Way is north. it won't be out for a while but it's currently in development.
   
 - 🌱 I’m currently learning Game Development and Game Design.
